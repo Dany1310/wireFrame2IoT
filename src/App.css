@@ -3,7 +3,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background: linear-gradient(to bottom, #001428, #1a1f3c);
+  /* background: linear-gradient(to bottom, #001428, #1a1f3c); */
+  background-image: url('./fotos/Fondo3.jpg');
   color: white;
 }
 
@@ -41,4 +42,8 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.text-left {
+  text-align: left;
 }
