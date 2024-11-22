@@ -20,8 +20,13 @@ function App() {
           <a className="nav-link" href="#">Gráficas</a>
         </li>
       </ul>
-
-      <div className="">
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <div className='row justify-content-md-center'>
+      <div className="col-6">
         <div id="carouselExampleFade" className="carousel slide carousel-fade">
           <div className="carousel-inner">
             <div className="carousel-item active">
@@ -47,6 +52,7 @@ function App() {
           <span className="carousel-control-next-icon" aria-hidden="true"></span>
           <span className="visually-hidden">Next</span>
         </button>
+      </div>
       </div>
 
     </div>
